@@ -3,8 +3,8 @@ package punto4;
 public class Main {
 
 	public static void main(String[] args) {
-		Auto objAuto = new Auto("ford"); // Polimorfismo porque el metodo tiene el mismo nombre 
-		Camion objCamion = new Camion("Mercedes Benz "); //Polimorfismo
+		Auto objAuto = new Auto("Audi"); // Polimorfismo porque el metodo tiene el mismo nombre 
+		Camion objCamion = new Camion("Lancia"); //Polimorfismo
 
 		System.out.println("Datos Del Auto");
 		System.out.println("La marca es  :" + objAuto.marca);
