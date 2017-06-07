@@ -2,8 +2,8 @@ package tp;
 
 public class Clas1 {
 	//figura trapecio//
-	int altura=10;
-	int base=6;
+	int altura=8;
+	int base=4;
 
 	public String toString() {
 		String s= "altura: " + altura + " base: " + base;
